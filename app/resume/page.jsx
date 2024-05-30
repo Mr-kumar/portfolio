@@ -34,7 +34,7 @@ const EducationCard = () => {
           Currently pursuing a B.Tech in Computer Science from
           <br />
           <span class=" font-semibold">
-            Indian Institute of Information Technology
+            Indian Institute of Information Technology ,Raichur 
           </span>
         </p>
       </div>
