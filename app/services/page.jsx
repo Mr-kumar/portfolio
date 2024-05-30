@@ -10,28 +10,28 @@ const services = [
     num: "01",
     title: "Full Stack Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dicta veniam consequuntur earum molestias quae facilis enim reprehenderit, corrupti accusamus corporis modi soluta dolore aspernatur ea, officia est nisi odio",
+      "'m working on full stack web development, utilizing the latest technologies like React and Next.js for dynamic user interfaces, Framer Motion for smooth animations, and Tailwind CSS for modern, responsive styling.And node js, php express js for building the Backened.",
     href: "/web-development",
   },
   {
     num: "02",
     title: "Data Science",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dicta veniam consequuntur earum molestias quae facilis enim reprehenderit, corrupti accusamus corporis modi soluta dolore aspernatur ea, officia est nisi odio",
+      "In addition to full stack web development, I'm also delving into data science, leveraging tools like Python, TensorFlow, and Pandas to analyze complex datasets, create predictive models, and extract meaningful insights to drive data-informed decisions.",
     href: "/data-science",
   },
   {
     num: "03",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dicta veniam consequuntur earum molestias quae facilis enim reprehenderit, corrupti accusamus corporis modi soluta dolore aspernatur ea, officia est nisi odio",
+      "I'm passionate about UI/UX design, using the latest tools like Figma for prototyping, Sketch for designing, and Framer for creating interactive interfaces to ensure every application is intuitive, visually appealing, and provides an exceptional user experience.",
     href: "/ui-ux-design",
   },
   {
     num: "04",
     title: "Artificial Intelligence",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dicta veniam consequuntur earum molestias quae facilis enim reprehenderit, corrupti accusamus corporis modi soluta dolore aspernatur ea, officia est nisi odio",
+      "I'm deeply engaged in the field of artificial intelligence, working with cutting-edge technologies such as TensorFlow and PyTorch for developing and training machine learning models. My focus includes natural language processing, computer vision, and deep learning, aiming to create intelligent systems that can learn from data, adapt to new information, and provide insightful predictions and solutions.",
     href: "/artificial-intelligence",
   },
 ];
