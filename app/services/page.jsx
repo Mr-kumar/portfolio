@@ -10,7 +10,7 @@ const services = [
     num: "01",
     title: "Full Stack Web Development",
     description:
-      "'m working on full stack web development, utilizing the latest technologies like React and Next.js for dynamic user interfaces, Framer Motion for smooth animations, and Tailwind CSS for modern, responsive styling.And node js, php express js for building the Backened.",
+      "I'm working on full stack web development, utilizing the latest technologies like React and Next.js for dynamic user interfaces, Framer Motion for smooth animations, and Tailwind CSS for modern, responsive styling.And node js, php express js for building the Backened.",
     href: "/web-development",
   },
   {
